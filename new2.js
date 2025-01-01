@@ -14,7 +14,8 @@ const numerosEnIngles = {
   7: "Seven",
   8: "Eight",
   9: "Nine",
-  10: "Ten"
+  10: "Ten",
+  11: "eleven"
 };
 
 // Verificar si el número está entre 1 y 10
